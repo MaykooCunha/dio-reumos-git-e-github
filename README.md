@@ -11,8 +11,8 @@ Repositório para armazenar sobre Git e Github do curso Versionamento de Código
 
 | Aulas | Resumos |
 |------|--------|
-| Gravando Alterações no Repositório Local | [Resumo]
-{} |
+| Aula 01 | [Resumo]{} |
+| Aula 02 | [Resumo]{} |
 
 ...
 
